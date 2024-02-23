@@ -1,5 +1,5 @@
 [submodule "sub_mod_02"]
-	path = submodule/sub_mod_02
+	path = sub_mod_02
 	url = git@github.com:jackmappotion/sub_mod_02.git
 [submodule "sub_mod_01"]
 	path = submodule/sub_mod_01
